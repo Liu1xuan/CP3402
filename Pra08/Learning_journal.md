@@ -3,7 +3,10 @@ Learning journal
 CP3402 week 8 Learning journal
 
 1.Learning Activities & Resources
-The main activity this week is to Use some form of the scientific method with a theory and test.
+The main activity this week is to Use some form of the scientific method with a theory and test. In the process of learning, I saw some videoes:
+https://www.youtube.com/watch?v=2dzzMTPR6Ls
+https://www.youtube.com/watch?v=8uYSLxJbPEY
+https://www.youtube.com/watch?v=LdTWGvP1k2Q
 
 Theory: I hypothesize that incorporating interactive coding exercises into my learning routine will enhance my understanding of content management systems (CMS) and PHP, compared to traditional passive learning methods.
 
